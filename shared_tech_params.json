@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "ABH": {
+            "name": "chart",
+            "url": "//meta-q.cdn.bubble.io/f1724053919967x676826966832959400/Screen%20Shot%202024-08-19%20at%2014.51.25.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}
